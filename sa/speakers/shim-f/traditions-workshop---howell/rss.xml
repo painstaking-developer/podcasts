@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Traditions Workshop - Howell</title>
+    <link>https://drive.google.com/drive/folders/19UZmnZiyJHMos0A77BEjhHlx2DDofJhF</link>
+    <description>Shim F shares on the 12 traditions at this series of 4 meetings. The original files for this collection of episodes can be found on Google Drive: https://drive.google.com/drive/folders/19UZmnZiyJHMos0A77BEjhHlx2DDofJhF This podcast contains a complete series of recordings, no new episodes are expected.</description>
+    <itunes:explicit>yes</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 25 Apr 2024 04:39:36 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Apr 2024 04:39:36 +0000</pubDate>
+    <itunes:image href="https://painstaking-developer.github.io/podcasts/sa/speakers/shim-f/traditions-workshop---howell/icon.png"/>
+    <item>
+      <title>Traditions 1-2-3</title>
+      <description><![CDATA[The original recording of this episode can be found on Google Drive here: https://drive.google.com/file/d/1PrYL9ltWCIPc4s5pRNxRfF6-hTRWW_LE/view]]></description>
+      <guid isPermaLink="false">41c3e0e2-df55-414f-9545-e79930e45059</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PrYL9ltWCIPc4s5pRNxRfF6-hTRWW_LE" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Apr 2024 04:39:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Traditions 4-5-6</title>
+      <description><![CDATA[The original recording of this episode can be found on Google Drive here: https://drive.google.com/file/d/1PqVYM09v167Ysf5AtJ4Jq8mGtIUe3_Yu/view]]></description>
+      <guid isPermaLink="false">ffb328b2-9ae9-4809-b229-4b49d6f3d663</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PqVYM09v167Ysf5AtJ4Jq8mGtIUe3_Yu" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Apr 2024 04:40:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Traditions 7-8-9</title>
+      <description><![CDATA[The original recording of this episode can be found on Google Drive here: https://drive.google.com/file/d/1BBpDZh5WxW3I1vyP00ruuh4K1YKqSA8A/view]]></description>
+      <guid isPermaLink="false">695befee-60b9-4c2d-a576-41f244e733dd</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BBpDZh5WxW3I1vyP00ruuh4K1YKqSA8A" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Apr 2024 04:41:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Traditions 10-11-12</title>
+      <description><![CDATA[The original recording of this episode can be found on Google Drive here: https://drive.google.com/file/d/1xq1EwHAtEmIynUzGVF63wbtR4WPLoBdy/view]]></description>
+      <guid isPermaLink="false">6630ab79-ef7b-4fc0-89dd-fa06887ba749</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xq1EwHAtEmIynUzGVF63wbtR4WPLoBdy" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Apr 2024 04:42:33 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

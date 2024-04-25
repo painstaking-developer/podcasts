@@ -1,0 +1,63 @@
+{
+  "name": "Traditions Workshop - Howell",
+  "description": "Shim F shares on the 12 traditions at this series of 4 meetings. The original files for this collection of episodes can be found on Google Drive: https://drive.google.com/drive/folders/19UZmnZiyJHMos0A77BEjhHlx2DDofJhF This podcast contains a complete series of recordings, no new episodes are expected.",
+  "website": "https://drive.google.com/drive/folders/19UZmnZiyJHMos0A77BEjhHlx2DDofJhF",
+  "explicit": true,
+  "image": "https://painstaking-developer.github.io/podcasts/sa/speakers/shim-f/traditions-workshop---howell/icon.png",
+  "no_longer_publishing_episodes": true,
+  "metadata": {
+    "original_drive_link": "https://drive.google.com/drive/folders/19UZmnZiyJHMos0A77BEjhHlx2DDofJhF",
+    "drive_dir_processed": "/Traditions Workshop - Howell",
+    "originally_processed": "2024-04-25T00:39:36.954959"
+  },
+  "episodes": [
+    {
+      "title": "Traditions 1-2-3",
+      "media": {
+        "url": "https://drive.google.com/uc?export=download&id=1PrYL9ltWCIPc4s5pRNxRfF6-hTRWW_LE",
+        "size": null,
+        "file": null,
+        "mime_type": "audio/mpeg"
+      },
+      "summary": "The original recording of this episode can be found on Google Drive here: https://drive.google.com/file/d/1PrYL9ltWCIPc4s5pRNxRfF6-hTRWW_LE/view",
+      "publication_date": "2024-04-25T04:39:33.240997Z",
+      "uid": "41c3e0e2-df55-414f-9545-e79930e45059"
+    },
+    {
+      "title": "Traditions 4-5-6",
+      "media": {
+        "url": "https://drive.google.com/uc?export=download&id=1PqVYM09v167Ysf5AtJ4Jq8mGtIUe3_Yu",
+        "size": null,
+        "file": null,
+        "mime_type": "audio/mpeg"
+      },
+      "summary": "The original recording of this episode can be found on Google Drive here: https://drive.google.com/file/d/1PqVYM09v167Ysf5AtJ4Jq8mGtIUe3_Yu/view",
+      "publication_date": "2024-04-25T04:40:33.240997Z",
+      "uid": "ffb328b2-9ae9-4809-b229-4b49d6f3d663"
+    },
+    {
+      "title": "Traditions 7-8-9",
+      "media": {
+        "url": "https://drive.google.com/uc?export=download&id=1BBpDZh5WxW3I1vyP00ruuh4K1YKqSA8A",
+        "size": null,
+        "file": null,
+        "mime_type": "audio/mpeg"
+      },
+      "summary": "The original recording of this episode can be found on Google Drive here: https://drive.google.com/file/d/1BBpDZh5WxW3I1vyP00ruuh4K1YKqSA8A/view",
+      "publication_date": "2024-04-25T04:41:33.240997Z",
+      "uid": "695befee-60b9-4c2d-a576-41f244e733dd"
+    },
+    {
+      "title": "Traditions 10-11-12",
+      "media": {
+        "url": "https://drive.google.com/uc?export=download&id=1xq1EwHAtEmIynUzGVF63wbtR4WPLoBdy",
+        "size": null,
+        "file": null,
+        "mime_type": "audio/mpeg"
+      },
+      "summary": "The original recording of this episode can be found on Google Drive here: https://drive.google.com/file/d/1xq1EwHAtEmIynUzGVF63wbtR4WPLoBdy/view",
+      "publication_date": "2024-04-25T04:42:33.240997Z",
+      "uid": "6630ab79-ef7b-4fc0-89dd-fa06887ba749"
+    }
+  ]
+}
