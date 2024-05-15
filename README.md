@@ -19,10 +19,18 @@ If you experience any issues, you may contact me at [painstaking.developer@gmail
 _Speakers_
   
 - #### Shim F
-  - **Shim F 12 and 12 Sponsorship:** [RSS URL](https://painstaking-developer.github.io/podcasts/sa/speakers/shim-f/shim-f-12-and-12-sponsorship/rss.xml) 
-  - **Shim F Big Book Sponsorship:** [RSS URL](https://painstaking-developer.github.io/podcasts/sa/speakers/shim-f/shim-f-big-book-sponsorship/rss.xml)
-  - **Shim F 12 Step Workshop:** [RSS URL](https://painstaking-developer.github.io/podcasts/sa/speakers/shim-f/step-workshop-in-the-clubhouse/rss.xml)
-  - **Traditions Workshop - Howell:** [RSS URL](https://painstaking-developer.github.io/podcasts/sa/speakers/shim-f/traditions-workshop---howell/rss.xml)
+  - ### Shim F 12 and 12 Sponsorship: [RSS URL](https://painstaking-developer.github.io/podcasts/sa/speakers/shim-f/shim-f-12-and-12-sponsorship/rss.xml)
+
+    _Shim F shares on the 12 Steps and 12 Traditions. The original files for this collection of episodes can be found on Google Drive: https://drive.google.com/drive/u/0/folders/1-7zG7x1PUvW_XBj04Xr8G55HMwDZrqhl This podcast contains a complete series of recordings, no new episodes are expected._
+  - ### Shim F Big Book Sponsorship: [RSS URL](https://painstaking-developer.github.io/podcasts/sa/speakers/shim-f/shim-f-big-book-sponsorship/rss.xml)
+
+    _A recovering sexaholic shares how he found a new and sober way of life through the time tested wisdom found in the Big Book of Alcoholics Anonymous in this in depth big book study. The original files for this collection of episodes can be found on Google Drive: https://drive.google.com/drive/folders/1CT5PSSjgjwiRbPb6mZEcS2jtRlIbp1A3 This podcast contains a complete series of recordings, no new episodes are expected._
+  - ### Shim F 12 Step Workshop: [RSS URL](https://painstaking-developer.github.io/podcasts/sa/speakers/shim-f/step-workshop-in-the-clubhouse/rss.xml)
+
+    _Shim F shares on the 12 steps in a series of 12 meetings at the Lakewood SA fellowship. The original files for this collection of episodes can be found on Google Drive: https://drive.google.com/drive/folders/1njPsAxJSKzYfzCtunGEHxLr36gBKczA- This podcast contains a complete series of recordings, no new episodes are expected._
+  - ### Traditions Workshop - Howell: [RSS URL](https://painstaking-developer.github.io/podcasts/sa/speakers/shim-f/traditions-workshop---howell/rss.xml)
+
+    _Shim F shares on the 12 traditions at this series of 4 meetings. The original files for this collection of episodes can be found on Google Drive: https://drive.google.com/drive/folders/19UZmnZiyJHMos0A77BEjhHlx2DDofJhF This podcast contains a complete series of recordings, no new episodes are expected._
 
 
 
